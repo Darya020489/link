@@ -1,0 +1,9 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": ["UHLGXYL7QN.org.reactjs.native.example.SmartApp"],
+            "paths": ["*"]
+        }]
+    }
+}
